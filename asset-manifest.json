@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/MilenaMaksimova/vitrina-project.git/static/css/main.b0247d62.css",
-    "main.js": "/MilenaMaksimova/vitrina-project.git/static/js/main.7c9017cc.js",
-    "index.html": "/MilenaMaksimova/vitrina-project.git/index.html",
-    "main.b0247d62.css.map": "/MilenaMaksimova/vitrina-project.git/static/css/main.b0247d62.css.map",
-    "main.7c9017cc.js.map": "/MilenaMaksimova/vitrina-project.git/static/js/main.7c9017cc.js.map"
+    "main.css": "/MilenaMaksimova/vitrina-project/static/css/main.b0247d62.css",
+    "main.js": "/MilenaMaksimova/vitrina-project/static/js/main.7c9017cc.js",
+    "index.html": "/MilenaMaksimova/vitrina-project/index.html",
+    "main.b0247d62.css.map": "/MilenaMaksimova/vitrina-project/static/css/main.b0247d62.css.map",
+    "main.7c9017cc.js.map": "/MilenaMaksimova/vitrina-project/static/js/main.7c9017cc.js.map"
   },
   "entrypoints": [
     "static/css/main.b0247d62.css",
